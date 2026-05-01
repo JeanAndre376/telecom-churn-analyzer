@@ -142,4 +142,5 @@ Built by Jean Fred A. Williama — Panama, Latin America
 Open to remote ML/Data Science opportunities worldwide.
 
 LinkedIn: [www.linkedin.com/in/jean-fred-a-williama-36905315]
+
 Email: [jeanfred4@gmail.com]
