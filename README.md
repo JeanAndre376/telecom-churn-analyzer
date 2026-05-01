@@ -8,7 +8,7 @@
 ---
 
 ## Live Demo
-Visit the live app: [[YOUR_STREAMLIT_URL_HERE](https://telecom-churn-analyzer-eywtuf35hy25opabxkndr3.streamlit.app/)]
+Visit the live app: [(https://telecom-churn-analyzer-eywtuf35hy25opabxkndr3.streamlit.app/)](https://telecom-churn-analyzer-eywtuf35hy25opabxkndr3.streamlit.app/)]
 
 ---
 
